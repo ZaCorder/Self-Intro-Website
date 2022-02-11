@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Name </title>
+    <link rel="stylesheet" href="~/Content/selfie.css">
+    <meta name="viewport" content="width=device-width" />
+</head>
+<body>
+    <div id="wrapper">
+        <header>
+            <h1>Zane Corder</h1>
+            <h2>@ViewBag.Name</h2>
+        </header>
+        <nav>
+            <ul>
+                <li><a href="~/home/Index">Home</a></li>
+                <li><a href="~/home/Experience">Experience</a></li>
+                <li><a href="~/home/Education">Education</a></li>
+                <li><a href="~/home/Contact">Contact</a></li>
+            </ul>
+        </nav>
+        <div id="body">
+            @RenderBody()
+        </div>
+        <footer>
+            Copyright &copy; 2016, Zane Corder<br>
+            <a href="zane.corder@gmail.com" target="_blank"><b>Email:</b>zane.corder@gmail.com<br></a>
+            <a href="https://www.facebook.com/zane.corder" target="_blank"><b>Profile:</b>Facebook</a>
+            <br>
+            @if (true)
+            {
+                <table id="debugInformation">
+                    <tr><td>Name</td> <td>Value</td></tr>
+                    <tr><td>Browser Name</td><td>@Request.Browser.Browser </td></tr>
+                    <tr><td>Browser Version</td> <td>@Request.Browser.Version</td></tr>
+                    <tr><td>HTTP Method</td> <td>@Request.HttpMethod</td></tr>
+                    <tr><td>Signed In</td> <td>@Request.IsAuthenticated</td></tr>
+                    @if (Request.IsAuthenticated)
+                    {
+                        <tr><td>User Name</td> <td>@Request.LogonUserIdentity.Name</td></tr>
+                    }
+                    <tr><td>Client IP Address</td> <td>@Request.UserHostAddress</td></tr>
+                </table>
+            }
+        </footer>
+    </div>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
+

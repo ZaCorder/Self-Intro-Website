@@ -1,0 +1,247 @@
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\ApplicationInsights.config
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\roslyn\csc.exe
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\roslyn\Microsoft.CSharp.Core.targets
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\roslyn\System.Collections.Immutable.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\roslyn\System.Reflection.Metadata.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\roslyn\vbc.exe
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\roslyn\VBCSCompiler.exe
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\roslyn\VBCSCompiler.exe.config
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\MVCSS.dll.config
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\MVCSS.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\MVCSS.pdb
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Antlr3.Runtime.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\EntityFramework.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\EntityFramework.SqlServer.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.AI.Agent.Intercept.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.AI.DependencyCollector.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.AI.PerfCounterCollector.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.AI.Web.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.AI.WindowsServer.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.ApplicationInsights.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.AspNet.Identity.Core.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.AspNet.Identity.Owin.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.Owin.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.Owin.Host.SystemWeb.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Cookies.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.Owin.Security.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Facebook.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Google.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.Owin.Security.OAuth.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Twitter.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.Web.Infrastructure.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Newtonsoft.Json.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Owin.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\System.Web.Helpers.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\System.Web.Mvc.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\System.Web.Optimization.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\System.Web.Razor.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\System.Web.WebPages.Deployment.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\System.Web.WebPages.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\System.Web.WebPages.Razor.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\WebGrease.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.AI.DependencyCollector.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.AI.Web.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.AI.WindowsServer.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.ApplicationInsights.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\System.Web.Helpers.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\System.Web.Mvc.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\System.Web.Optimization.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\System.Web.Razor.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\System.Web.WebPages.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\System.Web.WebPages.Deployment.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\System.Web.WebPages.Razor.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Antlr3.Runtime.pdb
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Newtonsoft.Json.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\EntityFramework.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\EntityFramework.SqlServer.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.AspNet.Identity.Core.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.AspNet.Identity.Owin.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.Owin.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.Owin.Host.SystemWeb.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.Owin.Security.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Facebook.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Cookies.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.Owin.Security.OAuth.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Google.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Twitter.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\obj\Debug\MVCSS.csprojResolveAssemblyReference.cache
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\obj\Debug\MVCSS.dll
+g:\users\zane\documents\visual studio 2015\Projects\MVCSS\MVCSS\obj\Debug\MVCSS.pdb
+E:\MVCSS\MVCSS\bin\ApplicationInsights.config
+E:\MVCSS\MVCSS\bin\roslyn\csc.exe
+E:\MVCSS\MVCSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MVCSS\MVCSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MVCSS\MVCSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MVCSS\MVCSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MVCSS\MVCSS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MVCSS\MVCSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MVCSS\MVCSS\bin\roslyn\System.Collections.Immutable.dll
+E:\MVCSS\MVCSS\bin\roslyn\System.Reflection.Metadata.dll
+E:\MVCSS\MVCSS\bin\roslyn\vbc.exe
+E:\MVCSS\MVCSS\bin\roslyn\VBCSCompiler.exe
+E:\MVCSS\MVCSS\bin\roslyn\VBCSCompiler.exe.config
+E:\MVCSS\MVCSS\bin\MVCSS.dll.config
+E:\MVCSS\MVCSS\bin\MVCSS.dll
+E:\MVCSS\MVCSS\bin\MVCSS.pdb
+E:\MVCSS\MVCSS\bin\Antlr3.Runtime.dll
+E:\MVCSS\MVCSS\bin\EntityFramework.dll
+E:\MVCSS\MVCSS\bin\EntityFramework.SqlServer.dll
+E:\MVCSS\MVCSS\bin\Microsoft.AI.Agent.Intercept.dll
+E:\MVCSS\MVCSS\bin\Microsoft.AI.DependencyCollector.dll
+E:\MVCSS\MVCSS\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\MVCSS\MVCSS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\MVCSS\MVCSS\bin\Microsoft.AI.Web.dll
+E:\MVCSS\MVCSS\bin\Microsoft.AI.WindowsServer.dll
+E:\MVCSS\MVCSS\bin\Microsoft.ApplicationInsights.dll
+E:\MVCSS\MVCSS\bin\Microsoft.AspNet.Identity.Core.dll
+E:\MVCSS\MVCSS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MVCSS\MVCSS\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\MVCSS\MVCSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MVCSS\MVCSS\bin\Microsoft.Owin.dll
+E:\MVCSS\MVCSS\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MVCSS\MVCSS\bin\Microsoft.Owin.Security.dll
+E:\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Facebook.dll
+E:\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Google.dll
+E:\MVCSS\MVCSS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\MVCSS\MVCSS\bin\Microsoft.Owin.Security.OAuth.dll
+E:\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Twitter.dll
+E:\MVCSS\MVCSS\bin\Microsoft.Web.Infrastructure.dll
+E:\MVCSS\MVCSS\bin\Newtonsoft.Json.dll
+E:\MVCSS\MVCSS\bin\Owin.dll
+E:\MVCSS\MVCSS\bin\System.Web.Helpers.dll
+E:\MVCSS\MVCSS\bin\System.Web.Mvc.dll
+E:\MVCSS\MVCSS\bin\System.Web.Optimization.dll
+E:\MVCSS\MVCSS\bin\System.Web.Razor.dll
+E:\MVCSS\MVCSS\bin\System.Web.WebPages.Deployment.dll
+E:\MVCSS\MVCSS\bin\System.Web.WebPages.dll
+E:\MVCSS\MVCSS\bin\System.Web.WebPages.Razor.dll
+E:\MVCSS\MVCSS\bin\WebGrease.dll
+E:\MVCSS\MVCSS\bin\Microsoft.AI.DependencyCollector.xml
+E:\MVCSS\MVCSS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\MVCSS\MVCSS\bin\Microsoft.AI.Web.xml
+E:\MVCSS\MVCSS\bin\Microsoft.AI.WindowsServer.xml
+E:\MVCSS\MVCSS\bin\Microsoft.ApplicationInsights.xml
+E:\MVCSS\MVCSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MVCSS\MVCSS\bin\System.Web.Helpers.xml
+E:\MVCSS\MVCSS\bin\System.Web.Mvc.xml
+E:\MVCSS\MVCSS\bin\System.Web.Optimization.xml
+E:\MVCSS\MVCSS\bin\System.Web.Razor.xml
+E:\MVCSS\MVCSS\bin\System.Web.WebPages.xml
+E:\MVCSS\MVCSS\bin\System.Web.WebPages.Deployment.xml
+E:\MVCSS\MVCSS\bin\System.Web.WebPages.Razor.xml
+E:\MVCSS\MVCSS\bin\Antlr3.Runtime.pdb
+E:\MVCSS\MVCSS\bin\Newtonsoft.Json.xml
+E:\MVCSS\MVCSS\bin\EntityFramework.xml
+E:\MVCSS\MVCSS\bin\EntityFramework.SqlServer.xml
+E:\MVCSS\MVCSS\bin\Microsoft.AspNet.Identity.Core.xml
+E:\MVCSS\MVCSS\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\MVCSS\MVCSS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MVCSS\MVCSS\bin\Microsoft.Owin.xml
+E:\MVCSS\MVCSS\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MVCSS\MVCSS\bin\Microsoft.Owin.Security.xml
+E:\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Facebook.xml
+E:\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Cookies.xml
+E:\MVCSS\MVCSS\bin\Microsoft.Owin.Security.OAuth.xml
+E:\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Google.xml
+E:\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Twitter.xml
+E:\MVCSS\MVCSS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\MVCSS\MVCSS\obj\Debug\MVCSS.csprojResolveAssemblyReference.cache
+E:\MVCSS\MVCSS\obj\Debug\MVCSS.dll
+E:\MVCSS\MVCSS\obj\Debug\MVCSS.pdb
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\ApplicationInsights.config
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\roslyn\csc.exe
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\roslyn\System.Collections.Immutable.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\roslyn\System.Reflection.Metadata.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\roslyn\vbc.exe
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\roslyn\VBCSCompiler.exe
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\roslyn\VBCSCompiler.exe.config
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\MVCSS.dll.config
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\MVCSS.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\MVCSS.pdb
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Antlr3.Runtime.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\EntityFramework.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\EntityFramework.SqlServer.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.AI.Agent.Intercept.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.AI.DependencyCollector.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.AI.Web.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.AI.WindowsServer.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.ApplicationInsights.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.AspNet.Identity.Core.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.Owin.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Cookies.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.Owin.Security.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Facebook.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Google.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.Owin.Security.OAuth.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Twitter.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.Web.Infrastructure.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Newtonsoft.Json.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Owin.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\System.Web.Helpers.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\System.Web.Mvc.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\System.Web.Optimization.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\System.Web.Razor.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\System.Web.WebPages.Deployment.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\System.Web.WebPages.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\System.Web.WebPages.Razor.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\WebGrease.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.AI.DependencyCollector.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.AI.Web.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.AI.WindowsServer.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.ApplicationInsights.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\System.Web.Helpers.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\System.Web.Mvc.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\System.Web.Optimization.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\System.Web.Razor.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\System.Web.WebPages.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\System.Web.WebPages.Deployment.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\System.Web.WebPages.Razor.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Antlr3.Runtime.pdb
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Newtonsoft.Json.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\EntityFramework.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\EntityFramework.SqlServer.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.AspNet.Identity.Core.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.Owin.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.Owin.Security.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Facebook.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Cookies.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.Owin.Security.OAuth.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Google.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.Owin.Security.Twitter.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\obj\Debug\MVCSS.csproj.AssemblyReference.cache
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\obj\Debug\MVCSS.csproj.CoreCompileInputs.cache
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\obj\Debug\MVCSS.dll
+G:\School stuff\School folder 2016-2017\MVCSS\MVCSS\obj\Debug\MVCSS.pdb
